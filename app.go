@@ -23,7 +23,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/slashing"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	"github.com/consensuscon/nameservice/x/nameservice"
+	"github.com/consensuscon/CosmosApp/x/nameservice"
 )
 
 const appName = "nameservice"

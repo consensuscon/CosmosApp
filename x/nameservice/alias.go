@@ -1,8 +1,8 @@
 package nameservice
 
 import (
-	"github.com/consensuscon/nameservice/x/nameservice/internal/keeper"
-	"github.com/consensuscon/nameservice/x/nameservice/internal/types"
+	"github.com/consensuscon/CosmosApp/x/nameservice/internal/keeper"
+	"github.com/consensuscon/CosmosApp/x/nameservice/internal/types"
 )
 
 const (

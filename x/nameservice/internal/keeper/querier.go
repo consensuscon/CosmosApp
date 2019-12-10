@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"github.com/consensuscon/nameservice/x/nameservice/internal/types"
+	"github.com/consensuscon/CosmosApp/x/nameservice/internal/types"
 	"github.com/cosmos/cosmos-sdk/codec"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"

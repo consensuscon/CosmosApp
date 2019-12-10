@@ -95,4 +95,3 @@ func (msg MsgBuyName) GetSignBytes() []byte {
 func (msg MsgBuyName) GetSigners() []sdk.AccAddress {
 	return []sdk.AccAddress{msg.Buyer}
 }
-

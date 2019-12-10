@@ -1,11 +1,10 @@
-module github.com/consensuscon/nameservice
+module github.com/consensuscon/CosmosApp
 
 go 1.13
 
 require (
 	github.com/cosmos/cosmos-sdk v0.37.4
 	github.com/cosmos/sdk-application-tutorial v0.37.0
-	github.com/cosmos/sdk-tutorials/nameservice v0.0.0-20191209090026-03978cfdd392
 	github.com/gorilla/mux v1.7.3
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.6.1

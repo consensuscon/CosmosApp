@@ -6,8 +6,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/spf13/cobra"
 
-	"github.com/consensuscon/nameservice/x/nameservice/client/cli"
-	"github.com/consensuscon/nameservice/x/nameservice/client/rest"
+	"github.com/consensuscon/CosmosApp/x/nameservice/client/cli"
+	"github.com/consensuscon/CosmosApp/x/nameservice/client/rest"
 	"github.com/cosmos/cosmos-sdk/codec"
 	"github.com/cosmos/cosmos-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/bank"

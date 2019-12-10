@@ -4,7 +4,7 @@ import (
 	"os"
 	"path"
 
-	app "github.com/consensuscon/nameservice"
+	app "github.com/consensuscon/CosmosApp"
 
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/keys"
