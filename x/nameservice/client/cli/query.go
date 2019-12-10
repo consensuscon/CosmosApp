@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/consensuscon/CosmosApp/x/nameservice/types"
+	"github.com/consensuscon/CosmosApp/x/nameservice/internal/types"
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/codec"

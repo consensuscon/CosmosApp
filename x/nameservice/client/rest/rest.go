@@ -4,13 +4,15 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/consensuscon/CosmosApp/x/nameservice/types"
+	"github.com/consensuscon/CosmosApp/x/nameservice/internal/types"
 	"github.com/cosmos/cosmos-sdk/client/context"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/rest"
 
 	"github.com/gorilla/mux"
+
+	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
 )
 
 const (
